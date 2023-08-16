@@ -1,5 +1,6 @@
 # updateMembersScheme
 
+update etcd endpoint  scheme
 
 ## compile
 go install https://github.com/hanfengyizu/updateMembersScheme
